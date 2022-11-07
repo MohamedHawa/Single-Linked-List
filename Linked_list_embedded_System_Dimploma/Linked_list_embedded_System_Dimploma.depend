@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666385780 source:d:\test_c_programs\linked_list_embedded_system_dimploma\main.c
+	<stdio.h>
+	<stdlib.h>
+
